@@ -1,6 +1,6 @@
 {
   "name": "module11",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "module 11 check digit",
   "main": "index.js",
   "scripts": {
