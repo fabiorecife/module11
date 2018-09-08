@@ -1,5 +1,5 @@
 {
-  "name": "module11",
+  "name": "@fabioalmeida/module11",
   "version": "1.0.0",
   "description": "module 11 check digit",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "name": "Fabio Almeida",
     "email": "fabiorecife@gmail.com",
     "url": "https://github.com/fabiorecife"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiorecife/module11.git "
   },
   "license": "ISC",
   "devDependencies": {
