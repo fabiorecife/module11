@@ -1,3 +1,11 @@
+## Install
+
+Install with [npm](https://www.npmjs.com/):
+
+```sh
+$ npm i @fabioalmeida/module11
+```
+
 ## Usage
 
 ```js
